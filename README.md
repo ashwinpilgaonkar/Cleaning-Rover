@@ -1,5 +1,6 @@
 # Floor Cleaning Rover
-An obstacle avoiding, floor cleaning Arduino Uno based rover created as part of EL101 Digital Logic Circuits Course Project.
+<strong>EL101 Digital Logic Circuits Project</strong><br>
+An obstacle avoiding, floor cleaning Arduino Uno based rover.
 
 ## Components Used
 ```
@@ -28,3 +29,4 @@ The algorithm is designed to cover the entire surface of the floor it is kept on
 It will detect and avoid the objects if present, but will not cover the entire surface area of the floor.
 
 ## Images
+![Floor Cleaning Rover](https://user-images.githubusercontent.com/13731530/29819608-0009f86c-8cdf-11e7-8c9c-f8724aa4c117.jpg)
